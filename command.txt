@@ -1,0 +1,13 @@
+git config --lis >-command for list config
+
+git config --global user.name "...." >-commant for adding user name
+
+git config --global user.email "...." >-commant for adding user email
+
+git init >-command for initialize git repository
+
+git status  >-commant for listing all untracked files
+
+git adding -A >-command for adding all untracked files to staging area
+
+git commit -m "..msg.." >-command for adding all staged files to local repository
