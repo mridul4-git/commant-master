@@ -19,7 +19,11 @@ flags
 
 command for adding git repository >- git remote add name remote_path
 
-command for listing remote >- git remoe -v
+command for listing remote >- git remote -v
+
+command for listing all branch >- git branch
+
+commit history>- git log
 
 command for adding changes in local repository to remote repository
     >-git push -u remote_name branch_name
