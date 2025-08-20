@@ -12,3 +12,15 @@ git adding -A >-command for adding all untracked files to staging area
 
 git commit -m "..msg.." >-command for adding all staged files to local repository
 
+flags
+    A>- staged  
+    U>-untracked
+    M>-modified
+
+command for adding git repository >- git remote add name remote_path
+
+command for listing remote >- git remoe -v
+
+command for adding changes in local repository to remote repository
+    >-git push -u remote_name branch_name
+    >-git push -u lumi master
